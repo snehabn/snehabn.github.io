@@ -1,1 +1,3 @@
-# snehabn.github.io
+# Sneha Narasimhan
+
+## Projects
